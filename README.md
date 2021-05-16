@@ -12,8 +12,11 @@ Limit : 400,000 / Transaction
 10% Trading Fee:
 
 3% Allocate to All Holders
+
 5% Add to LP
+
 2% Marketing and Operational Expenses & Burn
+
 
 
 On BSC
